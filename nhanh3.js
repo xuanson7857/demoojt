@@ -1,3 +1,1 @@
-console.log("sad");
-console.log("chan nhie");
-sds;
+log(lan1);
